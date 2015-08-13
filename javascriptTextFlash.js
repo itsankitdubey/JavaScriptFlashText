@@ -1,8 +1,3 @@
-# JavaScriptFlashText
-//** Flashing Links script v2.0- (c) Dynamic Drive DHTML code library: http://www.dynamicdrive.com
-//** Last updated April 6th, 09' to v2.0
-//** This notice must stay intact for legal use
-
 var flashinglinks={
 
 pause: 500, //pause between flashes (in milliseconds)
